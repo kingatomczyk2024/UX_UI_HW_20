@@ -1,0 +1,43 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: 'slnt' 0;
+}
+
+.navigation {
+  background-color: #201129;
+}
+
+header .jumbotron {
+  background-color: #e9d9ef;
+}
+
+.carousel-item blockquote {
+  padding-top: 100px;
+}
+blockquote {
+  font-style: italic;
+}
+.sectionHeading {
+  font-size: 28px;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 0 0px #e9dff0;
+  letter-spacing: 0.09em;
+}
+
+.jumbotron-fluid {
+  background-color: #250331;
+}
+
+.totalReserch {
+  opacity: 0.6;
+  display: inline-block;
+  background-color: #f4f4f4;
+  border-radius: 6px;
+  padding: 5px 10px;
+}
+
+footer {
+  text-align: center;
+}
